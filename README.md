@@ -5,5 +5,5 @@ Single Page application to play 7 different musical keys at your will! Project i
 
 <p>The Xylophone app was created as part of a project in the a Flutter exercise. Other features including templates to guide the fingers on which keys to press are in the works!</p>
 
-<img src="https://i.imgur.com/9SBQdvD.png" width="300"></a>
+<img src="https://i.imgur.com/Qcn4XWg.png" width="500"></a>
 
