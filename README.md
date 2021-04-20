@@ -1,4 +1,4 @@
-# Xylophone - Unlease Creativity and Your Inner Mozart
+# Xylophone - Unleash Your Creativity and Your Inner Mozart!
 Single Page application to play 7 different musical keys at your will! Project is done using Flutter's framework and the dart language and compatible with iOS and Android Devices.
 
 <h2>Introduction</h2>
