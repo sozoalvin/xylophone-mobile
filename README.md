@@ -1,16 +1,9 @@
-# xylophone
+# Xylophone - Unlease Creativity and Your Inner Mozart
+Single Page application to play 7 different musical keys at your will! Project is done using Flutter's framework and the dart language and compatible with iOS and Android Devices.
 
-A new Flutter application.
+<h2>Introduction</h2>
 
-## Getting Started
+<p>The Xylophone app was created as part of a project in the a Flutter exercise. Other features including templates to guide the fingers on which keys to press are in the works!</p>
 
-This project is a starting point for a Flutter application.
+<img src="https://i.imgur.com/9SBQdvD.png" width="700"></a>
 
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
